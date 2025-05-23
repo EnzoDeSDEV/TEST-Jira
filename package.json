@@ -1,0 +1,25 @@
+{
+  "name": "test-jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+  "test": "cucumber-js --format html:reports/report.html"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoDeSDEV/TEST-Jira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EnzoDeSDEV/TEST-Jira/issues"
+  },
+  "homepage": "https://github.com/EnzoDeSDEV/TEST-Jira#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0"
+  }
+}
